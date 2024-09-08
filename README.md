@@ -3,6 +3,8 @@ Colaboratory上で[ctom2/colie](https://github.com/ctom2/colie)をお試しす�
 
 ![image](https://github.com/user-attachments/assets/23677c23-1261-4624-b4ed-389f261b19fd)
 
+https://github.com/user-attachments/assets/d063e51d-108b-45f5-a407-8c2535f2c59f
+
 # Usage
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/CoLIE-Colaboratory-Sample/blob/main/CoLIE-Colaboratory-Sample.ipynb)<br>
 Colaboratoryでノートブックを開き、上から順に実行してください。
