@@ -12,7 +12,7 @@ Colaboratoryでノートブックを開き、上から順に実行してくだ�
 # License 
 CoLIE-Colaboratory-Sample is under [Apache-2.0 license](LICENSE).
 
-# License(Image, Video,)
+# License(Image, Video)
 サンプル実行用に格納している画像などは以下を利用しています。
 * [ぱくたそ](https://www.pakutaso.com)様：[夜間の松濤文化村ストリート](https://www.pakutaso.com/20240513145post-51368.html)
 * [NHKクリエイティブ・ライブラリー](https://www.nhk.or.jp/archives/creative/)様：「[夜の淀川に浮かぶ屋形船](https://www2.nhk.or.jp/archives/movies/?id=D0002020004_00000)」
